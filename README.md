@@ -19,4 +19,4 @@ _italic too_
 + First B
 
 чтобы сделать ссылки
-### [HSE](https://www.hse.ru)
+### [Вышка](https://www.hse.ru)
